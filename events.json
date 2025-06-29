@@ -1,0 +1,9 @@
+[
+    {
+        "id": 2,
+        "title": "Doctor Appointment",
+        "description": "Teeth cleaning",
+        "start_time": "2025-07-01T10:00",
+        "end_time": "2025-07-01T11:00"
+    }
+]
